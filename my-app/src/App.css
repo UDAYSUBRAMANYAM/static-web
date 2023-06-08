@@ -1,0 +1,11 @@
+.navitem{
+  display: flex;
+  justify-content: space-between;
+}
+.list{
+  display: flex;
+  list-style: none;
+}
+.list li{
+  margin: 5px;
+}
